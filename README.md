@@ -21,4 +21,4 @@ Atualmente, meu ambiente de desenvolvimento e projetos envolvem:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romulocardoso184@gmail.com)
 
 ### Estatísticas!
-[![Romulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=romulo-mc)](https://github.com/romulo-mc/github-readme-stats)
+![Romulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=romulo-mc&show_icons=true&theme=tokyonight)

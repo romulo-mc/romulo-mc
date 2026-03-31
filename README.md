@@ -20,5 +20,15 @@ Atualmente, meu ambiente de desenvolvimento e projetos envolvem:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rômulo-martins-cardoso-4823152b9)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romulocardoso184@gmail.com)
 
-### Estatísticas!
-![Romulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=romulo-mc&show_icons=true&theme=tokyonight)
+---
+
+### Estatísticas:
+
+<p>
+  <img align="left"
+       src="https://github-readme-stats-one-bice.vercel.app/api?username=romulo-mc&show_icons=true&locale=pt-br&theme=tokyonight"
+       alt="romulo-mc" />
+  <img align="right"
+       src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=romulo-mc&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight"
+       alt="romulo-mc" />
+</p>
